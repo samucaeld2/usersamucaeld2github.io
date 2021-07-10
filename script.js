@@ -1,0 +1,1 @@
+alert("Aviso essas imagens foram linkadas com um outro site")
